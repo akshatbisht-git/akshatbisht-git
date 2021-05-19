@@ -2,7 +2,7 @@
 - 👀 I’m interested in .Blockchain Technology and Machine Learning..
 - 🌱 I’m currently learning .Javascript..
 - 💞️ I’m looking to collaborate on .Blockchain Technology..
-- 📫 How to reach me ...
+- 📫 How to reach me ..bishtakshat94@gmail.com.
 
 <!---
 akshatbisht-git/akshatbisht-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
